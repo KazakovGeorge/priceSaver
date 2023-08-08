@@ -1,0 +1,64 @@
+{
+  "Version": "1.25",
+  "IsDarkTheme": true,
+  "ProductVersion": "1.29",
+  "References": {
+    "Items": [
+      "Microsoft.CSharp",
+      "System",
+      "System.Core",
+      "System.Data",
+      "System.Deployment",
+      "System.IO",
+      "System.Linq",
+      "System.Net.Http",
+      "System.Text.Encoding",
+      "System.Web",
+      "System.Windows.Forms",
+      "System.Xml"
+    ]
+  },
+  "Folders": [
+    {
+      "RelativePath": "",
+      "Folders": [
+        {
+          "RelativePath": "processes",
+          "Folders": [],
+          "Files": [
+            {
+              "RelativePath": "create_report.process",
+              "Main": false,
+              "Showing": false,
+              "Pinned": false
+            },
+            {
+              "RelativePath": "get_data_DNS.process",
+              "Main": false,
+              "Showing": false,
+              "Pinned": false
+            },
+            {
+              "RelativePath": "get_settings.process",
+              "Main": false,
+              "Showing": false,
+              "Pinned": false
+            }
+          ],
+          "Links": []
+        }
+      ],
+      "Files": [
+        {
+          "RelativePath": "main.process",
+          "Main": true,
+          "Showing": true,
+          "Pinned": false
+        }
+      ],
+      "Links": []
+    }
+  ],
+  "Files": [],
+  "Links": []
+}

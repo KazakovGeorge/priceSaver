@@ -1,0 +1,9 @@
+[
+	{
+		"website": "www.dns-shop.ru", 
+		"request": "RTX 3080",
+		"city": "Нижний Новгород",
+		"maxCost": "150000",
+		"onlyGPU": "1"
+	}
+]
